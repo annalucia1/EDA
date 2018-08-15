@@ -1,4 +1,4 @@
-My ExData Repo
+This is my EDA (Exploratory Data Analysis) branch contributing to a master EDA
 ## Introduction
 
 This assignment uses data from
